@@ -1,0 +1,22 @@
+body{
+ 	font-family: 'Roboto Mono', monospace;
+  	text-align:center;
+}
+
+p{
+	font-size:100px;
+	margin:0px;
+}
+
+.box{
+	width:300px;
+	padding: 5px;
+	margin:25px auto 25px auto;
+	border-radius: 10px;
+	background-color:black;
+	color:white;
+}
+
+button{
+	padding:5px;
+}
