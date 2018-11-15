@@ -6,7 +6,8 @@ $(document).ready(function(){
 		type:"GET",
 		dataType:"JSON",
 		data:{
-			q:"Brooklyn,US",
+			lat:"40.78",
+			lon:"-73.97",
 			units:"imperial",
 			appid:"fe2c6efc3a65e12a9e394f5c70be2b59"
 		},
